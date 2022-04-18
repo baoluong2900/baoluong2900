@@ -2,6 +2,7 @@
 hello
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baoluong2900&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baoluong2900&layout=compact)](https://github.com/baoluong2900/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baoluong2900&langs_count=8)](https://github.com/baoluong2900/github-readme-stats)
 <!--
 **baoluong2900/baoluong2900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
