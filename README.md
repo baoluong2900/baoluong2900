@@ -1,4 +1,4 @@
-### Hi, My name is Bao 👋
+### Hi, I'm Bao, a full stack .NET developer and Hue University graduate from Hue City. I specialize in building high-quality web applications, handling both frontend and backend development. I'm passionate about technology and always strive to stay updated with the latest trends 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baoluong2900&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baoluong2900&layout=compact)](https://github.com/baoluong2900/github-readme-stats)
 <!--
