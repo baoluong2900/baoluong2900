@@ -1,6 +1,8 @@
 ### Hi, I'm Bao, a full stack .NET developer and Hue University graduate from Hue City. I specialize in building high-quality web applications, handling both frontend and backend development. I'm passionate about technology and always strive to stay updated with the latest trends 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baoluong2900&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baoluong2900&show_icons=true&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baoluong2900&layout=compact)](https://github.com/baoluong2900/github-readme-stats)
+
+(https://starchart.cc/{baoluong2900}/{repo}.svg)
 
 
 ## Languages
@@ -18,12 +20,19 @@
 ![Blazor](https://img.shields.io/badge/Blazor-%235C2D91.svg?style=flat&logo=blazor&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-B52E31.svg?style=flat&logo=angular&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
 ![React_Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
+
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 
 ## Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-<!--![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)-->
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 
 ## Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
