@@ -19,6 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-B52E31.svg?style=flat&logo=angular&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
+![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
