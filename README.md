@@ -3,9 +3,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baoluong2900&theme=blue-green)
 
-[![starcharts stargazers over time](https://starchart.cc/baoluong2900/{repo}.svg)
-
-
 ## Languages
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typescript-ffffff.svg?style=flat&logo=typescript)
