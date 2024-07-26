@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baoluong2900&show_icons=true&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baoluong2900&layout=compact)](https://github.com/baoluong2900/github-readme-stats)
 
-![Repo](https://starchart.cc/{baoluong2900}/{repo}.svg)
+[![starcharts stargazers over time](https://starchart.cc/{baoluong2900}/{repo}.svg)
 
 
 ## Languages
